@@ -1,6 +1,6 @@
 import React from 'react'
 import AppBar from 'material-ui/AppBar';
 
-const NavBar = () => <AppBar title="Image Finder" />;
+const NavBar = () => <AppBar style={{ backgroundColor: 'black' }} title="Image Finder" />;
 
 export default NavBar;

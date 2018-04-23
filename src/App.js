@@ -3,7 +3,6 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
 import NavBar from './components/navbar/NavBar';
 import Search from './components/search/Search';
-import ImageResults from './components/image-results/ImageResults';
 
 import './App.css';
 
