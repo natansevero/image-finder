@@ -1,6 +1,6 @@
 # Image Finder
 
-React + Pixabay API
+React + Material UI + Pixabay API
 
 ## Runnig application:
 ```
